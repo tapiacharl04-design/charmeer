@@ -1,5 +1,5 @@
 # charmeer
-Charl Mae Tapia, tapiacharl04@gmail.com, tapiacharl04-design.github.io, 2026
+Charl Mae Tapia, tapiacharl04@gmail.com, [tapiacharl04-design.github.io](https://github.com/tapiacharl04-design/charmeer.git), 2026
 # 🛡️ Charl Mae E. Tapia — SOC Analyst Portfolio
 15-day self-directed training lab: SIEM threat detection, network forensics, honeypot threat intelligence, and incident response.
 ![Status](https://img.shields.io/badge/status-open%20to%20work-2FBE9F?style=flat-square)
@@ -9,8 +9,8 @@ Charl Mae Tapia, tapiacharl04@gmail.com, tapiacharl04-design.github.io, 2026
 ![License](https://img.shields.io/badge/docs-MIT-8C96A5?style=flat-square)
 
 > A home lab project built to practice the full lifecycle of a security incident — from raw packet capture to a written report — using the same categories of tooling found in real SOC environments. Built in 15 days as a self-directed program, not a job; treat this as evidence of hands-on initiative going into entry-level SOC / security operations roles.
-🔗 **Live site:** tapiacharl04-design.github.io
----
+🔗 **Live site:** [tapiacharl04-design.github.io
+---](https://github.com/tapiacharl04-design/charmeer.git)
 
 ## Table of Contents
 
@@ -146,7 +146,7 @@ soc-analyst-portfolio/
 ```
 ## Contact
 - **Email:** tapiacharl04@gmail.com
-- **GitHub:** tapiacharl04-design.github.io
+- **GitHub:** [tapiacharl04-design.github.io](https://github.com/tapiacharl04-design/charmeer.git)
 
   ---
 *Built as part of a 15-day self-directed SOC training lab. © [2026] [Charl Mae E. Tapia].*
