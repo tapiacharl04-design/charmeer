@@ -46,7 +46,6 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 - Ingested and explored the BOTSv2 dataset in Splunk, learning its index and sourcetype structure before writing any searches.
 - Wrote SPL queries to surface indicators of compromise — *[e.g., identify suspicious activities and customize queries]*.
 - Designed and built Splunk dashboards from scratch: panels, visualizations, and time-range controls for a fast read on environment health.
-- Rehearsed the dashboard as a live demo, practicing how to walk a non-technical audience through what each panel means.
 
 **Skills demonstrated:** SPL query writing · log correlation · dashboard design · technical presenting
 
@@ -82,4 +81,72 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 **Skills demonstrated:** packet analysis · Wireshark filters · traffic baselining · anomaly identification
 
-📁 Evidence:To be added — capture notes and filter examples
+📁 Evidence:To be added — capture notes and filter examples\
+---
+
+### CASE-004 · Honeypot Deployment & Threat Intelligence
+`Adversary Intelligence` · `Kali Linux` · `[Honeypot tool]` · **Status: Documented**
+
+**Objective:** Get a firsthand look at what automated attackers actually do, by giving them something to attack inside a safely isolated home lab.
+
+**What I did:**
+- Built and isolated a home lab network segment so the honeypot could be exposed without putting other devices at risk.
+- Deployed a honeypot on Kali Linux to passively log connection attempts, credentials tried, and commands run.
+- Reviewed the resulting logs for patterns — common usernames/passwords attempted, scanning behavior, follow-on actions.
+- Cross-referenced honeypot activity with Wireshark captures of the same traffic.
+
+**Skills demonstrated:** honeypot configuration · network segmentation · log analysis · attacker TTP identification
+
+📁 Evidence: To be added — network diagram and log analysis notes
+
+---
+## 15-Day Program Timeline
+
+| Days | Phase | Focus |
+|------|-------|-------|
+| 1–2 | Foundations | Cybersecurity awareness, threat landscape, lab environment setup |
+| 3–6 | SIEM Monitoring | Splunk setup, BOTSv2 ingestion, SPL practice, dashboard build, live demo |
+| 7–9 | Incident Response | Ticketing workflow, triage practice, incident report writing |
+| 10–12 | Network Forensics | Wireshark capture/filter practice, baseline vs. anomaly comparison |
+| 13–14 | Adversary Lab | Kali Linux honeypot deployment, network isolation, log collection |
+| 15 | Wrap-Up | Portfolio documentation, demo rehearsal, lessons learned |
+
+## Skill Set
+
+| Category | Skills |
+|---|---|
+| Detection & Monitoring | Splunk, SPL, dashboard design, log correlation |
+| Network Forensics | Wireshark, protocol analysis, PCAP review, TCP stream reconstruction |
+| Lab & Linux Ops | Kali Linux, honeypot deployment, network segmentation, Linux CLI |
+| IR & Communication | Triage, ticketing, incident reports, stakeholder demos |
+
+## Repo Structure
+
+```
+soc-analyst-portfolio/
+├── README.md
+├── 01-splunk-siem-monitoring/
+│   ├── README.md              # write-up of approach + findings
+│   ├── spl-queries.md         # your actual SPL queries, commented
+│   └── screenshots/           # dashboard panels, search results
+├── 02-incident-response/
+│   ├── README.md
+│   ├── incident-report-template.md
+│   └── sample-tickets.md
+├── 03-wireshark-traffic-analysis/
+│   ├── README.md
+│   ├── pcap-findings.md       # filters used + what they revealed
+│   └── screenshots/
+├── 04-kali-honeypot-homelab/
+│   ├── README.md
+│   ├── network-diagram.png    # how the lab was isolated
+│   └── attack-log-analysis.md
+└── assets/
+    └── screenshots/
+```
+## Contact
+- **Email:** tapiacharl04@gmail.com
+- **GitHub:** tapiacharl04-design.github.io
+
+  ---
+*Built as part of a 15-day self-directed SOC training lab. © [2026] [Charl Mae E. Tapia].*
