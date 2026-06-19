@@ -4,11 +4,12 @@
   <p><b>15-day self-directed training lab:</b> SIEM threat detection, network forensics, honeypot threat intelligence, and incident response.</p>
 </div>
 
-![Status](https://img.shields.io/badge/status-open%20to%20work-2FBE9F?style=flat-square)
-![Splunk](https://img.shields.io/badge/SIEM-Splunk-DD9A3D?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Network-Wireshark-1B9CFC?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Lab-Kali%20Linux-557C94?style=flat-square)
-![License](https://img.shields.io/badge/docs-MIT-8C96A5?style=flat-square)
+!![Status](https://img.shields.io/badge/status-open%20to%20work-0074D9?style=flat-square)   <!-- Dodger Blue -->
+![Splunk](https://img.shields.io/badge/SIEM-Splunk-1B9CFC?style=flat-square)             <!-- Bright Blue -->
+![Wireshark](https://img.shields.io/badge/Network-Wireshark-005082?style=flat-square)    <!-- Navy Blue -->
+![Kali Linux](https://img.shields.io/badge/Lab-Kali%20Linux-00BFFF?style=flat-square)    <!-- Deep Sky Blue -->
+![License](https://img.shields.io/badge/docs-MIT-4682B4?style=flat-square)               <!-- Steel Blue -->
+
 
 > A home lab project built to practice the full lifecycle of a security incident — from raw packet capture to a written report — using the same categories of tooling found in real SOC environments. Built in 15 days as a self-directed program, not a job; treat this as evidence of hands-on initiative going into entry-level SOC / security operations roles.
 
@@ -42,6 +43,7 @@ I'm **Charl Mae E. Tapia**, an aspiring SOC Analyst building hands-on detection 
 ## Case Files
 
 Each case below mirrors a real SOC workflow stage — detection, response, network forensics, and adversary intelligence — and links to the supporting evidence folder in this repo.
+
 
 ### CASE-001 · SIEM Threat Detection & Dashboard Build
 `Detection & Monitoring` · `Splunk Enterprise` · `BOTSv2 Dataset` · `SPL` · **Status: Documented**
@@ -112,17 +114,20 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 <hr style="border: 2px solid #1B9CFC; border-radius: 5px;" />
 
 ## 15-Day Program Timeline
+![Timeline](assets/timeline-blue.png)
 
 | Days | Phase | Focus |
 |------|-------|-------|
 | 1–2 | Foundations | Cybersecurity awareness, threat landscape, lab environment setup |
-| 3–6 | Incident Response | Ticketing workflow, triage practice, incident report writing | 
+| 3–6 | Incident Response | Ticketing workflow, triage practice, incident report writing |
 | 7–9 | SIEM Monitoring | Splunk setup, BOTSv2 ingestion, SPL practice, dashboard build, live demo |
 | 10–12 | Network Forensics | Wireshark capture/filter practice, baseline vs. anomaly comparison |
 | 13–14 | Adversary Lab | Kali Linux honeypot deployment, network isolation, log collection |
 | 15 | Wrap-Up | Portfolio documentation, demo rehearsal, lessons learned |
 
+
 ## Skill Set
+![Skill Set](assets/skillset-blue.png)
 
 | Category | Skills |
 |---|---|
