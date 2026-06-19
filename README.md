@@ -75,7 +75,7 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 **Skills demonstrated:** alert triage · prioritization · ticketing workflows · incident report writing
 
-📁 Evidence: [`/02-incident-response`](./02-incident-response) (./02-incident-response-README.md) — report template and example tickets
+📁 Evidence: [`/02-incident-response`](./02-incident-response) docs/01-splunk-siem-monitoring-README.md — report template and example tickets
 
 <hr style="border: 2px solid #1B9CFC; border-radius: 5px;" />
 
