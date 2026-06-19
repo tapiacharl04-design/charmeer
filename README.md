@@ -1,7 +1,8 @@
 
-# 🛡️ Charl Mae E. Tapia — SOC Analyst Portfolio
-
-**15-day self-directed training lab:** SIEM threat detection, network forensics, honeypot threat intelligence, and incident response.
+<div align="center" style="background-color:#1B9CFC; padding:15px; border-radius:8px; color:white;">
+  <h1>🛡️ Charl Mae E. Tapia — SOC Analyst Portfolio</h1>
+  <p><b>15-day self-directed training lab:</b> SIEM threat detection, network forensics, honeypot threat intelligence, and incident response.</p>
+</div>
 
 ![Status](https://img.shields.io/badge/status-open%20to%20work-2FBE9F?style=flat-square)
 ![Splunk](https://img.shields.io/badge/SIEM-Splunk-DD9A3D?style=flat-square)
@@ -13,7 +14,7 @@
 
 🔗 **Live site:** `https://github.com/tapiacharl04-design/charmeer`
 
----
+<hr style="border: 2px solid #1B9CFC; border-radius: 5px;" />
 
 ## Table of Contents
 
@@ -28,7 +29,7 @@
 - [Repo Structure](#repo-structure)
 - [Contact](#contact)
 
----
+<hr style="border: 2px solid #1B9CFC; border-radius: 5px;" />
 
 ## About
 
@@ -36,7 +37,7 @@ I'm **Charl Mae E. Tapia**, an aspiring SOC Analyst building hands-on detection 
 
 **Lab stack:** Splunk Enterprise · BOTSv2 Dataset · Wireshark · Kali Linux · [Honeypot tool] · [Ticketing platform]
 
----
+<hr style="border: 2px solid #1B9CFC; border-radius: 5px;" />
 
 ## Case Files
 
@@ -57,7 +58,7 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 📁 Evidence: [`/01-splunk-siem-monitoring`](./01-splunk-siem-monitoring) — SPL queries, dashboard exports, screenshots
 
----
+<hr style="border: 2px solid #1B9CFC; border-radius: 5px;" />
 
 ### CASE-002 · Incident Triage, Ticketing & Reporting
 `Incident Response` · `[Ticketing platform]` · **Status: Documented**
@@ -74,7 +75,7 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 📁 Evidence: [`/02-incident-response`](./02-incident-response) — report template and example tickets
 
----
+<hr style="border: 2px solid #1B9CFC; border-radius: 5px;" />
 
 ### CASE-003 · Network Traffic & Packet Analysis
 `Network Forensics` · `Wireshark` · **Status: Documented**
@@ -91,7 +92,7 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 📁 Evidence: [`/03-wireshark-traffic-analysis`](./03-wireshark-traffic-analysis) — capture notes and filter examples
 
----
+<hr style="border: 2px solid #1B9CFC; border-radius: 5px;" />
 
 ### CASE-004 · Honeypot Deployment & Threat Intelligence
 `Adversary Intelligence` · `Kali Linux` · `[Honeypot tool]` · **Status: Documented**
@@ -108,7 +109,7 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 📁 Evidence: [`/04-kali-honeypot-homelab`](./04-kali-honeypot-homelab) — network diagram and log analysis notes
 
----
+<hr style="border: 2px solid #1B9CFC; border-radius: 5px;" />
 
 ## 15-Day Program Timeline
 
