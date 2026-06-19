@@ -5,7 +5,7 @@
   and adjust the 15-Day Timeline to match your real schedule.
 -->
 
-# 🛡️ [Charl Mae E. Tapia] — SOC Analyst Portfolio
+# 🛡️ Charl Mae E. Tapia — SOC Analyst Portfolio
 
 **15-day self-directed training lab:** SIEM threat detection, network forensics, honeypot threat intelligence, and incident response.
 
