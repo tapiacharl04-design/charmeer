@@ -1,9 +1,3 @@
-<!--
-  BEFORE PUBLISHING, replace every bracketed placeholder:
-  Charl Mae E. Tapia, tapiacharl04@gmail.com, , 2026
-  Also swap the italic "e.g." notes inside each case for what you actually did,
-  and adjust the 15-Day Timeline to match your real schedule.
--->
 
 # 🛡️ Charl Mae E. Tapia — SOC Analyst Portfolio
 
@@ -17,7 +11,7 @@
 
 > A home lab project built to practice the full lifecycle of a security incident — from raw packet capture to a written report — using the same categories of tooling found in real SOC environments. Built in 15 days as a self-directed program, not a job; treat this as evidence of hands-on initiative going into entry-level SOC / security operations roles.
 
-🔗 **Live site:** `[add your GitHub Pages / hosted link here]`
+🔗 **Live site:** `https://github.com/tapiacharl04-design/charmeer`
 
 ---
 
@@ -38,7 +32,7 @@
 
 ## About
 
-I'm **[Charl Mae E. Tapia]**, an aspiring SOC Analyst building hands-on detection and response skills outside the classroom.
+I'm **Charl Mae E. Tapia**, an aspiring SOC Analyst building hands-on detection and response skills outside the classroom.
 
 **Lab stack:** Splunk Enterprise · BOTSv2 Dataset · Wireshark · Kali Linux · [Honeypot tool] · [Ticketing platform]
 
@@ -55,7 +49,7 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 **What I did:**
 - Ingested and explored the BOTSv2 dataset in Splunk, learning its index and sourcetype structure before writing any searches.
-- Wrote SPL queries to surface indicators of compromise — *[e.g., suspicious authentication activity, anomalous process execution, unusual DNS query patterns — swap in what you actually focused on]*.
+- Wrote SPL queries to surface indicators of compromise — identify suspicious activity.
 - Designed and built Splunk dashboards from scratch: panels, visualizations, and time-range controls for a fast read on environment health.
 - Rehearsed the dashboard as a live demo, practicing how to walk a non-technical audience through what each panel means.
 
@@ -72,7 +66,7 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 **What I did:**
 - Logged alerts and findings from the Splunk dashboard work as tickets, rather than leaving them as one-off searches.
-- Practiced triage: assigning priority and severity based on *[e.g., asset criticality, likelihood, potential business impact]* instead of treating every alert the same.
+- Practiced triage: assigning priority and severity based on its critical level instead of treating every alert the same.
 - Wrote structured incident reports for higher-priority cases — summary, timeline, indicators of compromise, and recommended remediation.
 - Treated documentation as a deliverable in itself.
 
@@ -89,7 +83,7 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 **What I did:**
 - Captured and analyzed live and saved traffic in Wireshark, reading the protocol hierarchy before drilling into individual frames.
-- Used display filters to isolate specific conversations and suspicious patterns — *[e.g., unexpected ports, plaintext credentials, repeated connection attempts]*.
+- Used display filters to isolate specific conversations and suspicious patterns — unknown ports and repeated connection attempts.
 - Followed TCP streams end-to-end to reconstruct what happened in a session.
 - Compared baseline "normal" traffic against anomalous captures.
 
@@ -118,15 +112,13 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 ## 15-Day Program Timeline
 
-*(General structure shown below — edit day ranges/phases to match your real schedule.)*
-
 | Days | Phase | Focus |
 |------|-------|-------|
 | 1–2 | Foundations | Cybersecurity awareness, threat landscape, lab environment setup |
-| 3–6 | SIEM Monitoring | Splunk setup, BOTSv2 ingestion, SPL practice, dashboard build, live demo |
-| 7–9 | Network Forensics | Wireshark capture/filter practice, baseline vs. anomaly comparison |
-| 10–12 | Adversary Lab | Kali Linux honeypot deployment, network isolation, log collection |
-| 13–14 | Incident Response | Ticketing workflow, triage practice, incident report writing |
+| 3–6 | Incident Response | Ticketing workflow, triage practice, incident report writing | 
+| 7–9 | SIEM Monitoring | Splunk setup, BOTSv2 ingestion, SPL practice, dashboard build, live demo |
+| 10–12 | Network Forensics | Wireshark capture/filter practice, baseline vs. anomaly comparison |
+| 13–14 | Adversary Lab | Kali Linux honeypot deployment, network isolation, log collection |
 | 15 | Wrap-Up | Portfolio documentation, demo rehearsal, lessons learned |
 
 ## Skill Set
@@ -162,14 +154,10 @@ soc-analyst-portfolio/
 └── assets/
     └── screenshots/
 ```
-
-> Tip for recruiters skimming GitHub: keep real screenshots (dashboard panels, Wireshark captures, honeypot logs) inside each folder — visual proof of hands-on work matters more than extra prose.
-
 ## Contact
 
-- **Email:** [your.tapiacharl04@gmail.com]
-- **LinkedIn:** []
-- **GitHub:** [github.com/you]
+- **Email:** your.tapiacharl04@gmail.com
+- **GitHub:** https://github.com/tapiacharl04-design/charmeer
 
 ---
 *Built as part of a 15-day self-directed SOC training lab. © [2026] [Charl Mae E. Tapia].*
