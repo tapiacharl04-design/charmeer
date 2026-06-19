@@ -58,7 +58,7 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 **Skills demonstrated:** SPL query writing · log correlation · dashboard design · technical presenting
 
-📁 Evidence: [`/01-splunk-siem-monitoring`](./01-splunk-siem-monitoring) — SPL queries, dashboard exports, screenshots
+📁 Evidence: [`/01-splunk-siem-monitoring`](./01-splunk-siem-monitoring) https://github.com/tapiacharl04-design/charmeer/blob/main/docs/01-splunk-siem-monitoring-README.md — SPL queries, dashboard exports, screenshots
 
 <hr style="border: 2px solid #1B9CFC; border-radius: 5px;" />
 
