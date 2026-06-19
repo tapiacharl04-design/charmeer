@@ -1,6 +1,6 @@
 <!--
   BEFORE PUBLISHING, replace every bracketed placeholder:
-  [Charl Mae E. Tapia], [your.tapiacharl04@gmail.com], [github.com/you], [Ticketing platform], [2026]
+  Charl Mae E. Tapia, tapiacharl04@gmail.com, , 2026
   Also swap the italic "e.g." notes inside each case for what you actually did,
   and adjust the 15-Day Timeline to match your real schedule.
 -->
